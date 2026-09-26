@@ -223,4 +223,4 @@ The left-hand navigation moves to a dedicated page per strand. Those pages can t
 
 **Samuel Babajide** — Data Scientist specialising in applied analytics and predictive modelling within complex, regulated environments.
 
-[LinkedIn](https://linkedin.com/in/samuelbbabajide) · [GitHub](https://github.com/PsalmmyBabs)
+[Website](https://samuelbabajide.github.io/) · [LinkedIn](https://linkedin.com/in/samuelbbabajide) 
